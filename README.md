@@ -2,18 +2,18 @@
 Welcome to the Django Translator App project! This Python-based web application allows users to translate text from one language to another using a simple and intuitive interface. Powered by the Django framework and the translate package, users can input text and receive real-time translations in various languages.
 
 ## Features and Functionality
-#Text Translation:
+**1. Text Translation:**
 - User Input: Users can input text in one language and choose their source and target languages.
 - Multiple Languages: Supports popular languages like French, Spanish, German, Chinese, Hindi, and more.
 - Real-time Translation: Once the form is submitted, the translated text is displayed instantly on the same page.
 
-#Language Selection:
+**2. Language Selection:**
 - Users can choose both the source and target languages using dropdown menus, offering flexibility for translating between different languages.
 
-#Interactive Web Interface:
+**3. Interactive Web Interface:**
 - The app provides a user-friendly interface with modern styling using Bootstrap and MDB UI Kit, allowing users to easily enter text, select languages, and view translations.
 
-#API Integration:
+**4. API Integration:**
 - Utilises the translate Python package to perform translations, leveraging reliable and accurate language translation services.
 
 ## Security Reminder
